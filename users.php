@@ -14,7 +14,6 @@ $data = json_decode(file_get_contents('validation/users.json'),true);
   <div class="row">
     <div class="col-12 mx-auto">
 
-
     <table class="table">
   <thead>
     <tr>
